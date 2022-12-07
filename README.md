@@ -8,8 +8,12 @@
 
 
 <p float="center">
-<img src="https://user-images.githubusercontent.com/73742092/206175530-7744925e-d708-473c-92ea-8e6e1a802910.png" width="250"> 
-<img src="https://user-images.githubusercontent.com/73742092/206175557-2796b5df-36e6-4c59-a9f4-4fe966f49918.png" width="250">
+
+
+<img src="https://user-images.githubusercontent.com/73742092/206175530-7744925e-d708-473c-92ea-8e6e1a802910.png" width="350"> 
+
+
+<img src="https://user-images.githubusercontent.com/73742092/206175557-2796b5df-36e6-4c59-a9f4-4fe966f49918.png" width="350">
 </p>
 
 
