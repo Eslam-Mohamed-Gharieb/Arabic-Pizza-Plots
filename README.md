@@ -10,10 +10,10 @@
 <p float="center">
 
 
-<img src="https://user-images.githubusercontent.com/73742092/206175530-7744925e-d708-473c-92ea-8e6e1a802910.png" width="350"> 
+<img src="https://user-images.githubusercontent.com/73742092/206175530-7744925e-d708-473c-92ea-8e6e1a802910.png" width="400"> 
 
 
-<img src="https://user-images.githubusercontent.com/73742092/206175557-2796b5df-36e6-4c59-a9f4-4fe966f49918.png" width="350">
+<img src="https://user-images.githubusercontent.com/73742092/206175557-2796b5df-36e6-4c59-a9f4-4fe966f49918.png" width="400">
 </p>
 
 
@@ -28,7 +28,7 @@
 بالنسبة للاعب يلعب في الدوري الفرنسي، فالريبورت المطلوب لموسم 22/23 هو كما موضح بالصورة. ننقر عليه ثم وننسخ لينك اللاعب ونضعه في الـ Notebook في المكان المخصص له 
 player_fbref_link
 
-<img src="https://user-images.githubusercontent.com/73742092/206179893-3cb3f5a9-5fc6-425c-9bb6-fde42c467ddb.png" width="500">
+<img src="https://user-images.githubusercontent.com/73742092/206179893-3cb3f5a9-5fc6-425c-9bb6-fde42c467ddb.png" width="800">
 
 
 الخطوة الأخيرة هي تغيير إسم الصورة التي سيتم حفظها، وهذا من خلال هذا الأمر 
